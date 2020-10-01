@@ -1,5 +1,5 @@
 This repository contains tutorials of [RunAbove Knowledge
-base](https://community.runabove.com/kb).
+base](https://community.runabove.com/kb). © Copyright protected - only for tutorial purposes
 
 # How to write a how-to guide?
 
